@@ -2,6 +2,13 @@ package com.test.onlyjavaprograms;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * @author rgunasekaran
+ * 
+ *         THIS PROGRAM WILL PRINT ALL POSSIBLE COMBINATION OF GIVEN STRING
+ *         USING RECURSIVE METHOD
+ */
 public class AllPossibleCombinationOfString {
 
 	public static void main(String[] args) {

@@ -1,9 +1,17 @@
 package com.test.onlyjavaprograms;
 
-
 import java.util.Map;
 import java.util.TreeMap;
 
+/**
+ * 
+ * @author rgunasekaran
+ * 
+ *         COUNT THE GIVEN CHARACTERS FROM STRING & TELL WHAT IS THE CHAR COUNT
+ *         OF EACH CHAR.
+ * 
+ *         Sample input : "abcabcc"  and Output should be a-2 b-2 c-3 so on.
+ */
 public class CharacterCount {
 
 	public static void main(String[] args) {
