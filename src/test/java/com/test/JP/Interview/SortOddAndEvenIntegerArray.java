@@ -4,6 +4,7 @@ public class SortOddAndEvenIntegerArray {
 
 	public static void main(String[] args) {
 		int[] s = { 3, 8, 7, 6, 5, 9, 4, 2 };
+//		int[] s = { 32, 8, 78, 6, 55, 9, 4, 20 };
 
 		System.out.println("====== BEFORE ASCENDING SORT ======");
 		for (int i = 0; i < s.length; i++) {
@@ -48,7 +49,7 @@ public class SortOddAndEvenIntegerArray {
 
 		System.out.println("\n====== FINAL ASCENDING SORT ======");
 		for (int i = 0; i < s.length; i++) {
-			System.out.print(s[i]);
+			System.out.print(s[i]+"-");
 		}
 	}
 
