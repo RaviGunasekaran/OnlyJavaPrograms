@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MoveOnesToEndOfArray {
 
 	public static void main(String[] args) {
-		int[] a = { 0, 1, 1, 0, 0, 1, 1, 0, 0, 1 };
+		int[] a = { 0, 1, 1, 0, 0, 1, 1, 0, 0, 1,0 };
 		int no = a.length;
 		int[] b = new int[no];
 		int zcount = 0;
